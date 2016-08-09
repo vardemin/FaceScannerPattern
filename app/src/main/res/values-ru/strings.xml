@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Олимпийский спорт сканер лица</string>
+    <string name="btn_start">СТАРТ</string>
+    <string name="btn_more">БОЛЬШЕ ИГР</string>
+    <string name="btn_pointcam">Наведите камеру на лицо</string>
+    <string name="btn_scan">Сканировать</string>
+    <string name="btn_analyze">Анализирую</string>
+    <string name="btn_getresult">Получить результат</string>
+    <string name="your_age">Ваш спорт:</string>
+    <string name="btn_gender">Узнать результат состязания</string>
+    <string name="ask">Посмотреть рекламу, чтобы определить спортивное достижение</string>
+    <string name="share">Я узнай свой вид спорта в приложении Олимпийский спорт сканер лица  #appache #Олимпийскийспорт</string>
+    <string name="title">Olympicsportfacescanner</string>
+    <string name="z_arch">Стрельба из лука</string>
+    <string name="z_atl">Лёгкая атлетика</string>
+    <string name="z_badm">Бадминтон</string>
+    <string name="z_bask">Баскетбол</string>
+    <string name="z_bea">Пляжный волейбол</string>
+    <string name="z_box">Бокс</string>
+    <string name="z_cycle">Велоспорт</string>
+    <string name="z_divi">Прыжки в воду</string>
+    <string name="z_fenc">Фехтование</string>
+    <string name="z_fho">Хоккей на траве</string>
+    <string name="z_foot">Футбол</string>
+    <string name="z_free">Борьба вольная</string>
+    <string name="z_golf">Гольф</string>
+    <string name="z_gym">Спортивная гимнастика</string>
+    <string name="z_hand">Гандбол</string>
+    <string name="z_horse">Конный спорт</string>
+    <string name="z_judo">Дзюдо</string>
+    <string name="z_jump">Прыжки на батуте</string>
+    <string name="z_modern">Современное пятиборье</string>
+    <string name="z_row">Гребля академическая</string>
+    <string name="z_rowAnd">Гребля на байдарках и каноэ</string>
+    <string name="z_rugby">Регби</string>
+    <string name="z_sail">Парусный спорт</string>
+    <string name="z_shoot">Стрельба</string>
+    <string name="z_sw">Плавание</string>
+    <string name="z_syn">Синхронное плавание</string>
+    <string name="z_taek">Тхэквондо</string>
+    <string name="z_ten">Теннис</string>
+    <string name="z_tri">Триатлон</string>
+    <string name="z_tten">Настольный теннис</string>
+    <string name="z_volley">Волейбол</string>
+    <string name="z_water">Водное поло</string>
+    <string name="z_weight">Тяжёлая атлетика</string>
+    <string name="z_wrest">Борьба греко-римская</string>
+    <string name="res_alt">Не прошел квалификацию</string>
+
+</resources>

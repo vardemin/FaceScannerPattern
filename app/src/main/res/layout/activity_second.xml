@@ -1,0 +1,76 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".SecondActivity"
+    android:gravity="center_horizontal"
+    android:background="@mipmap/frame_screen_3">
+
+
+    <FrameLayout
+        android:id="@+id/CameraPreview"
+        android:layout_width="300dp"
+        android:layout_height="450dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_above="@id/adView">
+        <TextView
+            android:id="@+id/pointcam_txt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/white"
+            android:textStyle="bold"
+            android:text="@string/btn_pointcam"
+            android:textAlignment="center"
+            android:textSize="30sp"
+            android:background="@color/backText"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/btn_max_width"
+            android:orientation="horizontal"
+            android:gravity="center_horizontal"
+            android:background="@mipmap/frame_screen_2"
+
+            android:paddingTop="10dp">
+
+            <Button
+                android:id="@+id/btn_back"
+                android:layout_width="@dimen/btn_max_width"
+                android:layout_height="@dimen/btn_max_width"
+                android:background="@mipmap/btn_back"
+                android:padding="5dp"/>
+            <Button
+                android:id="@+id/btn_photo"
+                android:layout_width="@dimen/btn_max_width"
+                android:layout_height="@dimen/btn_max_width"
+                android:background="@mipmap/btn_photo_off"
+                android:enabled="false"
+                android:padding="5dp"/>
+            <Button
+                android:id="@+id/btn_change"
+                android:layout_width="@dimen/btn_max_width"
+                android:layout_height="@dimen/btn_max_width"
+                android:background="@mipmap/btn_change_camera"
+                android:padding="5dp"/>
+        </LinearLayout>
+
+    </LinearLayout>
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        ads:adSize="SMART_BANNER"
+        ads:adUnitId="@string/bannerID"
+        android:layout_gravity="end"
+        android:layout_alignParentBottom="true">
+    </com.google.android.gms.ads.AdView>
+
+</RelativeLayout>

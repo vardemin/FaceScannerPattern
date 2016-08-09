@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Olympic sport face scanner</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_more">More games</string>
+    <string name="btn_pointcam">Point camera at face</string>
+    <string name="btn_scan">Scan</string>
+    <string name="btn_analyze">Analyze</string>
+    <string name="btn_getresult">Get result</string>
+    <string name="your_age">Your sport is</string>
+
+    <string name="bannerID" translatable="false">ca-app-pub-4039415987036268/7629550234</string>
+    <string name="banner_fullID" translatable="false">ca-app-pub-4039415987036268/9106283431</string>
+
+    <string name="btn_gender">Result of the competition</string>
+
+    <string name="ask">See ads to determine sporting achievement?</string>
+    <string name="share">I know your sport in the Olympic sport app face scanner  #appache #Olympicsport</string>
+    <string name="title">Olympicsportfacescanner</string>
+    <integer name="com_vk_sdk_AppId">5579158</integer>
+    <string name="z_badm">Badminton</string>
+    <string name="z_bask">Basketball</string>
+    <string name="z_box">Boxing</string>
+    <string name="z_free">Freestyle</string>
+    <string name="z_wrest">Wrestling Greco-Roman</string>
+    <string name="z_cycle">Cycle racing</string>
+    <string name="z_water">Water polo</string>
+    <string name="z_volley">Volleyball</string>
+    <string name="z_hand">Handball</string>
+    <string name="z_golf">Golf</string>
+    <string name="z_row">Rowing</string>
+    <string name="z_rowAnd">Rowing and canoeing</string>
+    <string name="z_judo">Judo</string>
+    <string name="z_horse">Horseback Riding</string>
+    <string name="z_atl">Athletics</string>
+    <string name="z_tten">Table tennis</string>
+    <string name="z_sail">Sailing</string>
+    <string name="z_sw">Swimming</string>
+    <string name="z_bea">Beach volleyball</string>
+    <string name="z_divi">Diving</string>
+    <string name="z_jump">Jumping on a trampoline</string>
+    <string name="z_rugby">Rugby</string>
+    <string name="z_syn">Synchronized swimming</string>
+    <string name="z_modern">Modern pentathlon</string>
+    <string name="z_gym">Gymnastics</string>
+    <string name="z_shoot">Shooting</string>
+    <string name="z_arch">Archery</string>
+    <string name="z_ten">Tennis</string>
+    <string name="z_tri">Triathlon</string>
+    <string name="z_taek">Taekwondo</string>
+    <string name="z_weight">Weightlifting</string>
+    <string name="z_fenc">Fencing</string>
+    <string name="z_foot">Football</string>
+    <string name="z_fho">Field hockey</string>
+    <string name="res_alt">Does not qualify</string>
+
+</resources>
